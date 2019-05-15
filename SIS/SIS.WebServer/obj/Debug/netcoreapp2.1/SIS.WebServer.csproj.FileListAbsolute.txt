@@ -1,0 +1,12 @@
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojAssemblyReference.cache
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CopyComplete
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb
