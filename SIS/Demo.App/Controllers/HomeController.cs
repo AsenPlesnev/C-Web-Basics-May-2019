@@ -1,17 +1,31 @@
-﻿using SIS.HTTP.Enums;
+﻿using SIS.HTTP.Cookies;
 using SIS.HTTP.Requests.Contracts;
+using SIS.HTTP.Responses;
 using SIS.HTTP.Responses.Contracts;
-using SIS.WebServer.Results;
 
 namespace Demo.App.Controllers
 {
-    public class HomeController
+    public class HomeController : BaseController
     {
-        public IHttpResponse Index(IHttpRequest request)
+        public HomeController(IHttpRequest httpRequest)
         {
-            string content = "<h1>Hello, World!</h1>";
+            this.HttpRequest = httpRequest;
+        }
 
-            return new HtmlResult(content, HttpResponseStatusCode.Ok);
+        public IHttpResponse Index(IHttpRequest httpRequest)
+        {
+            return this.View();
+        }
+
+        public IHttpResponse Home(IHttpRequest httpRequest)
+        {
+            if (!this.IsLoggedIn())
+            {
+                return this.Redirect("/login");
+            }
+
+            this.ViewData["Username"] = this.HttpRequest.Session.GetParameter("username");
+            return this.View();
         }
     }
 }

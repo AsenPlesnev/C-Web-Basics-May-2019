@@ -1,10 +1,5 @@
 ﻿namespace SIS.HTTP.Common
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-
     public class GlobalConstants
     {
         public const string HttpOneProtocolFragment = "HTTP/1.1";

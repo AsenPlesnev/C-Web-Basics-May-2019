@@ -1,7 +1,7 @@
-﻿using SIS.HTTP.Common;
-using SIS.HTTP.Headers.Contracts;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
+using SIS.HTTP.Common;
+using SIS.HTTP.Headers.Contracts;
 
 namespace SIS.HTTP.Headers
 {
@@ -32,8 +32,8 @@ namespace SIS.HTTP.Headers
             return this.httpHeaders[key];
         }
 
-        public override string ToString() => string.Join("\r\n", 
+        public override string ToString() => string.Join("\r\n",
             this.httpHeaders.Values.Select(header => header.ToString()));
-            
+
     }
 }

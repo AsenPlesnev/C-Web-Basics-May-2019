@@ -11,7 +11,6 @@ namespace SIS.WebServer.Routing
     public class ServerRoutingTable : IServerRoutingTable
     {
         private Dictionary<HttpRequestMethod, Dictionary<string, Func<IHttpRequest, IHttpResponse>>> routingTable;
-
         public ServerRoutingTable()
         {
             this.routingTable = new Dictionary<HttpRequestMethod, Dictionary<string, Func<IHttpRequest, IHttpResponse>>>
@@ -21,7 +20,6 @@ namespace SIS.WebServer.Routing
                 [HttpRequestMethod.Put] = new Dictionary<string, Func<IHttpRequest, IHttpResponse>>(),
                 [HttpRequestMethod.Delete] = new Dictionary<string, Func<IHttpRequest, IHttpResponse>>()
             };
-
         }
 
         public void Add(HttpRequestMethod method, string path, Func<IHttpRequest, IHttpResponse> func)
@@ -33,20 +31,20 @@ namespace SIS.WebServer.Routing
             this.routingTable[method].Add(path, func);
         }
 
-        public bool Contains(HttpRequestMethod requestMethod, string path)
+        public bool Contains(HttpRequestMethod method, string path)
         {
-            CoreValidator.ThrowIfNull(requestMethod, nameof(requestMethod));
+            CoreValidator.ThrowIfNull(method, nameof(method));
             CoreValidator.ThrowIfNullOrEmpty(path, nameof(path));
 
-            return this.routingTable.ContainsKey(requestMethod) && this.routingTable[requestMethod].ContainsKey(path);
+            return this.routingTable.ContainsKey(method) && this.routingTable[method].ContainsKey(path);
         }
 
-        public Func<IHttpRequest, IHttpResponse> Get(HttpRequestMethod requestMethod, string path)
+        public Func<IHttpRequest, IHttpResponse> Get(HttpRequestMethod method, string path)
         {
-            CoreValidator.ThrowIfNull(requestMethod, nameof(requestMethod));
+            CoreValidator.ThrowIfNull(method, nameof(method));
             CoreValidator.ThrowIfNullOrEmpty(path, nameof(path));
 
-            return this.routingTable[requestMethod][path];
+            return this.routingTable[method][path];
         }
     }
 }

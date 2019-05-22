@@ -1,10 +1,7 @@
-﻿namespace SIS.HTTP.Common
+﻿using System;
+
+namespace SIS.HTTP.Common
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-
     public class CoreValidator
     {
         public static void ThrowIfNull(object obj, string name)
