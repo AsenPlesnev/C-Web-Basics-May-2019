@@ -1,9 +1,0 @@
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\bin\Debug\netstandard2.0\Demo.Models.deps.json
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\bin\Debug\netstandard2.0\Demo.Models.dll
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\bin\Debug\netstandard2.0\Demo.Models.pdb
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\obj\Debug\netstandard2.0\Demo.Models.csprojAssemblyReference.cache
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\obj\Debug\netstandard2.0\Demo.Models.csproj.CoreCompileInputs.cache
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\obj\Debug\netstandard2.0\Demo.Models.AssemblyInfoInputs.cache
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\obj\Debug\netstandard2.0\Demo.Models.AssemblyInfo.cs
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\obj\Debug\netstandard2.0\Demo.Models.dll
-C:\Users\NyonBG\Desktop\SIS\Demo.Models\obj\Debug\netstandard2.0\Demo.Models.pdb
