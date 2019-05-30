@@ -1,0 +1,9 @@
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\bin\Debug\netcoreapp2.1\IRunes.Models.deps.json
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\bin\Debug\netcoreapp2.1\IRunes.Models.dll
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\bin\Debug\netcoreapp2.1\IRunes.Models.pdb
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.csproj.CoreCompileInputs.cache
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.AssemblyInfoInputs.cache
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.AssemblyInfo.cs
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.dll
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.pdb
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netstandard2.0\SIS.HTTP.dll
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
