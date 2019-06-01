@@ -32,3 +32,6 @@ D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\IRu
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.2\IRunes.App.csproj.CopyComplete
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.2\IRunes.App.dll
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.2\IRunes.App.pdb
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\IRunes.Services.dll
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\IRunes.Services.pdb
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\_Layout.html

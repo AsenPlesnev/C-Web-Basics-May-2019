@@ -12,6 +12,7 @@ D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\Vie
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\Views\Tracks\Details.html
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\Views\Users\Login.html
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\Views\Users\Register.html
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\Views\_Layout.html
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\IRunes.App.deps.json
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\IRunes.App.runtimeconfig.json
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\IRunes.App.runtimeconfig.dev.json
@@ -25,8 +26,8 @@ D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\SIS
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\IRunes.Services.pdb
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\SIS.MvcFramework.pdb
-D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\IRunes.Data.pdb
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\IRunes.Models.pdb
+D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.1\IRunes.Data.pdb
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.1\IRunes.App.csprojAssemblyReference.cache
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.1\IRunes.App.csproj.CoreCompileInputs.cache
 D:\C# Web Basics May 2019\SIS\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.1\IRunes.App.AssemblyInfoInputs.cache

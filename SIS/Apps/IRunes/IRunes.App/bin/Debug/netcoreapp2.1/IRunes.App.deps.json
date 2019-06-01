@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "IRunes.App/1.0.0": {
         "dependencies": {
+          "IRunes.Models": "1.0.0",
           "IRunes.Services": "1.0.0",
           "SIS.HTTP": "1.0.0",
           "SIS.MvcFramework": "1.0.0"

@@ -3589,6 +3589,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "IRunes.Models >= 1.0.0",
       "IRunes.Services >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "SIS.HTTP >= 1.0.0",
@@ -3631,6 +3632,9 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+            "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+              "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
+            },
             "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj": {
               "projectPath": "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj"
             },

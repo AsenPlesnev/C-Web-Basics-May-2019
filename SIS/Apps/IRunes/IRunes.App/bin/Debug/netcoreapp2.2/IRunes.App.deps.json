@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v2.2": {
       "IRunes.App/1.0.0": {
         "dependencies": {
-          "IRunes.Data": "1.0.0",
+          "IRunes.Models": "1.0.0",
+          "IRunes.Services": "1.0.0",
           "SIS.HTTP": "1.0.0",
           "SIS.MvcFramework": "1.0.0"
         },
@@ -195,6 +196,14 @@
         "dependencies": {
           "System.Security.AccessControl": "4.5.0",
           "System.Security.Principal.Windows": "4.5.0"
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
         }
       },
       "Remotion.Linq/2.2.0": {
@@ -489,6 +498,15 @@
           "IRunes.Models.dll": {}
         }
       },
+      "IRunes.Services/1.0.0": {
+        "dependencies": {
+          "IRunes.Data": "1.0.0",
+          "IRunes.Models": "1.0.0"
+        },
+        "runtime": {
+          "IRunes.Services.dll": {}
+        }
+      },
       "SIS.HTTP/1.0.0": {
         "runtime": {
           "SIS.HTTP.dll": {}
@@ -496,6 +514,7 @@
       },
       "SIS.MvcFramework/1.0.0": {
         "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
           "SIS.HTTP": "1.0.0"
         },
         "runtime": {
@@ -628,6 +647,13 @@
       "sha512": "sha512-+FWlwd//+Tt56316p00hVePBCouXyEzT86Jb3+AuRotTND0IYn0OO3obs1gnQEs/txEnt+rF2JBGLItTG+Be6A==",
       "path": "microsoft.win32.registry/4.5.0",
       "hashPath": "microsoft.win32.registry.4.5.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
     },
     "Remotion.Linq/2.2.0": {
       "type": "package",
@@ -887,6 +913,11 @@
       "sha512": ""
     },
     "IRunes.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IRunes.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
