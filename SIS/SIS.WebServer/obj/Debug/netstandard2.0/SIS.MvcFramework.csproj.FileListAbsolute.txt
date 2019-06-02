@@ -10,3 +10,9 @@ D:\C# Web Basics May 2019\SIS\SIS.WebServer\bin\Debug\netstandard2.0\SIS.HTTP.pd
 D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
 D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
 D:\C# Web Basics May 2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\SIS.WebServer\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb

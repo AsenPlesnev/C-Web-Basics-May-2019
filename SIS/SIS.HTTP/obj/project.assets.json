@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
+      "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
       "projectName": "SIS.HTTP",
-      "projectPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
+      "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
       "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\obj\\",
+      "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

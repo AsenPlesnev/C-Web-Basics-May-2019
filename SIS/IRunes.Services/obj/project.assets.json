@@ -3509,11 +3509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj",
+      "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\IRunes.Services.csproj",
       "projectName": "IRunes.Services",
-      "projectPath": "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj",
+      "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\IRunes.Services.csproj",
       "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\obj\\",
+      "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3538,11 +3538,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
-              "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj"
+            "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
+              "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj"
             },
-            "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
-              "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
+            "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+              "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
             }
           }
         }

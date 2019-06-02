@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
+      "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
       "projectName": "IRunes.Models",
-      "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
+      "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
       "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\obj\\",
+      "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

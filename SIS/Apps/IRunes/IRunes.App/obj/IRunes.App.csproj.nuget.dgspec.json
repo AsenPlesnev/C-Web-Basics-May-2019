@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj": {}
+    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj": {}
   },
   "projects": {
-    "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj": {
+    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj",
+        "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj",
         "projectName": "IRunes.App",
-        "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj",
+        "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj",
         "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.App\\obj\\",
+        "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -36,17 +36,17 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
-                "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
               },
-              "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj": {
-                "projectPath": "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\IRunes.Services.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\IRunes.Services.csproj"
               },
-              "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj": {
-                "projectPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj"
               },
-              "D:\\C# Web Basics May 2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj": {
-                "projectPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
+    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj",
+        "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj",
         "projectName": "IRunes.Data",
-        "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj",
+        "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj",
         "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Data\\obj\\",
+        "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -107,8 +107,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
-                "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
+        "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
         "projectName": "IRunes.Models",
-        "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
+        "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
         "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\obj\\",
+        "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -199,14 +199,14 @@
         }
       }
     },
-    "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj": {
+    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\IRunes.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj",
+        "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\IRunes.Services.csproj",
         "projectName": "IRunes.Services",
-        "projectPath": "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\IRunes.Services.csproj",
+        "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\IRunes.Services.csproj",
         "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basics May 2019\\SIS\\IRunes.Services\\obj\\",
+        "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\IRunes.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -231,11 +231,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
-                "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj"
               },
-              "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
-                "projectPath": "D:\\C# Web Basics May 2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
               }
             }
           }
@@ -264,14 +264,14 @@
         }
       }
     },
-    "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj": {
+    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
         "projectName": "SIS.HTTP",
-        "projectPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
         "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\obj\\",
+        "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -322,14 +322,14 @@
         }
       }
     },
-    "D:\\C# Web Basics May 2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj": {
+    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basics May 2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj",
+        "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj",
         "projectName": "SIS.MvcFramework",
-        "projectPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj",
+        "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.WebServer\\SIS.MvcFramework.csproj",
         "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.WebServer\\obj\\",
+        "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.WebServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -354,8 +354,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj": {
-                "projectPath": "D:\\C# Web Basics May 2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\SIS.HTTP\\SIS.HTTP.csproj"
               }
             }
           }
