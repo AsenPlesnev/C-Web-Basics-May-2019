@@ -1,4 +1,0 @@
-D:\C# Web Basics May 2019\SIS\IRunes.Services\obj\Debug\netcoreapp3.0\IRunes.Services.csprojAssemblyReference.cache
-D:\C# Web Basics May 2019\SIS\IRunes.Services\obj\Debug\netcoreapp3.0\IRunes.Services.csproj.CoreCompileInputs.cache
-D:\C# Web Basics May 2019\SIS\IRunes.Services\obj\Debug\netcoreapp3.0\IRunes.Services.AssemblyInfoInputs.cache
-D:\C# Web Basics May 2019\SIS\IRunes.Services\obj\Debug\netcoreapp3.0\IRunes.Services.AssemblyInfo.cs
