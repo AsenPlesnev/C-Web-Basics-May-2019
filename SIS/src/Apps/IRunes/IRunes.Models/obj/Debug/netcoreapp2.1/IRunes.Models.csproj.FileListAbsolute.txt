@@ -1,0 +1,8 @@
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\bin\Debug\netcoreapp2.1\IRunes.Models.deps.json
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\bin\Debug\netcoreapp2.1\IRunes.Models.dll
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\bin\Debug\netcoreapp2.1\IRunes.Models.pdb
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.AssemblyInfo.cs
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.dll
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.1\IRunes.Models.pdb
