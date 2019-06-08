@@ -4,71 +4,6 @@
     "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes.Services\\IRunes.Services.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes.Services\\IRunes.Services.csproj",
-        "projectName": "IRunes.Services",
-        "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes.Services\\IRunes.Services.csproj",
-        "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes.Services\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\NyonBG\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp2.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp2.1": {
-            "projectReferences": {
-              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
-                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj"
-              },
-              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
-                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
-          "imports": [
-            "net461"
-          ],
-          "assetTargetFallback": true,
-          "warn": true
-        }
-      }
-    },
     "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.App\\IRunes.App.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -86,7 +21,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -99,16 +34,13 @@
           "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes.Services\\IRunes.Services.csproj": {
-                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes.Services\\IRunes.Services.csproj"
-              },
               "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
                 "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
               },
-              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
-                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\SIS.HTTP\\SIS.HTTP.csproj"
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj"
               },
               "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
                 "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
@@ -123,12 +55,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
@@ -157,7 +89,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -170,7 +102,7 @@
           "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {
               "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
                 "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
@@ -185,7 +117,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -194,7 +126,7 @@
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
@@ -223,7 +155,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -236,7 +168,7 @@
           "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -247,12 +179,77 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj",
+        "projectName": "IRunes.Services",
+        "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj",
+        "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NyonBG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj"
+              },
+              "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+                "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },

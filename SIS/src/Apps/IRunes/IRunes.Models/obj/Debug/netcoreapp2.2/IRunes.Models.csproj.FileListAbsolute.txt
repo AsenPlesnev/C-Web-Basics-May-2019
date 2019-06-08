@@ -6,4 +6,3 @@ C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\I
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.AssemblyInfo.cs
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.dll
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.pdb
-C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.csprojAssemblyReference.cache

@@ -35,3 +35,5 @@ C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\I
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.2\IRunes.App.csproj.CopyComplete
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.2\IRunes.App.dll
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.2\IRunes.App.pdb
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\SIS.Common.dll
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\SIS.Common.pdb
