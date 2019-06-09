@@ -100,16 +100,16 @@ namespace SIS.MvcFramework
             foreach (var parameter in parameters)
             {
                 var parameterName = parameter.Name.ToLower();
-                ISet<string> httpDataValue = null;
-                if (request.QueryData.Any(x => x.Key.ToLower() == parameterName))
-                {
-                    parameterValue = request.QueryData.FirstOrDefault(x => x.Key.ToLower() == parameterName);
-                }
+                //ISet<string> httpDataValue = null;
+                //if (request.QueryData.Any(x => x.Key.ToLower() == parameterName))
+                //{
+                //    parameterValue = request.QueryData.FirstOrDefault(x => x.Key.ToLower() == parameterName);
+                //}
 
-                if (request.FormData.Any(x => x.Key.ToLower() == parameterName))
-                {
-                    parameterValue = request.FormData.FirstOrDefault(x => x.Key.ToLower() == parameterName);
-                }
+                //if (request.FormData.Any(x => x.Key.ToLower() == parameterName))
+                //{
+                //    parameterValue = request.FormData.FirstOrDefault(x => x.Key.ToLower() == parameterName);
+                //}
 
 
             }
