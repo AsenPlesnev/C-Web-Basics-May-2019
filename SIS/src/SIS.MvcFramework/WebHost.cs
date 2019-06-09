@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using SIS.HTTP.Enums;
@@ -13,8 +12,6 @@ using SIS.MvcFramework.Logging;
 using SIS.MvcFramework.Result;
 using SIS.MvcFramework.Routing;
 using SIS.MvcFramework.Sessions;
-using IServiceProvider = SIS.MvcFramework.DependencyContainer.IServiceProvider;
-
 
 namespace SIS.MvcFramework
 {
@@ -35,12 +32,14 @@ namespace SIS.MvcFramework
             server.Run();
         }
 
-        private static void AutoRegisterRoutes(IMvcApplication application, IServerRoutingTable serverRoutingTable, IServiceProvider serviceProvider)
+        private static void AutoRegisterRoutes(
+            IMvcApplication application,
+            IServerRoutingTable serverRoutingTable,
+            IServiceProvider serviceProvider)
         {
             var controllers = application.GetType().Assembly.GetTypes()
                 .Where(type => type.IsClass && !type.IsAbstract
                     && typeof(Controller).IsAssignableFrom(type));
-            // TODO: RemoveToString from InfoController
             foreach (var controllerType in controllers)
             {
                 var actions = controllerType
@@ -71,20 +70,25 @@ namespace SIS.MvcFramework
                         path = $"/{controllerType.Name.Replace("Controller", string.Empty)}/{attribute.ActionName}";
                     }
 
-                    serverRoutingTable.Add(httpMethod, path, (request) => ProcessRequest(serviceProvider, controllerType, action, request));
+                    serverRoutingTable.Add(httpMethod, path,
+                        (request) => ProcessRequest(serviceProvider, controllerType, action, request));
 
                     System.Console.WriteLine(httpMethod + " " + path);
                 }
             }
         }
 
-        private static IHttpResponse ProcessRequest(IServiceProvider serviceProvider, Type controllerType, MethodInfo action, IHttpRequest request)
+        private static IHttpResponse ProcessRequest(
+            IServiceProvider serviceProvider,
+            System.Type controllerType,
+            MethodInfo action,
+            IHttpRequest request)
         {
             var controllerInstance = serviceProvider.CreateInstance(controllerType) as Controller;
-            (controllerInstance).Request = request;
+            controllerInstance.Request = request;
 
             // Security Authorization - TODO: Refactor this
-            var controllerPrincipal = (controllerInstance).User;
+            var controllerPrincipal = controllerInstance.User;
             var authorizeAttribute = action.GetCustomAttributes()
                 .LastOrDefault(a => a.GetType() == typeof(AuthorizeAttribute)) as AuthorizeAttribute;
 
@@ -100,18 +104,22 @@ namespace SIS.MvcFramework
             foreach (var parameter in parameters)
             {
                 var parameterName = parameter.Name.ToLower();
-                //ISet<string> httpDataValue = null;
-                //if (request.QueryData.Any(x => x.Key.ToLower() == parameterName))
-                //{
-                //    parameterValue = request.QueryData.FirstOrDefault(x => x.Key.ToLower() == parameterName);
-                //}
+                ISet<string> httpDataValue = null;
+                if (request.QueryData.Any(x => x.Key.ToLower() == parameterName))
+                {
+                    httpDataValue = request.QueryData.FirstOrDefault(
+                        x => x.Key.ToLower() == parameterName).Value;
+                }
+                else if (request.FormData.Any(x => x.Key.ToLower() == parameterName))
+                {
+                    httpDataValue = request.FormData.FirstOrDefault(
+                        x => x.Key.ToLower() == parameterName).Value;
+                }
 
-                //if (request.FormData.Any(x => x.Key.ToLower() == parameterName))
-                //{
-                //    parameterValue = request.FormData.FirstOrDefault(x => x.Key.ToLower() == parameterName);
-                //}
-
-
+                // TODO: Support lists
+                string httpStringValue = httpDataValue.FirstOrDefault();
+                var parameterValue = System.Convert.ChangeType(httpStringValue, parameter.ParameterType);
+                parameterValues.Add(parameterValue);
             }
 
             var response = action.Invoke(controllerInstance, parameterValues.ToArray()) as ActionResult;

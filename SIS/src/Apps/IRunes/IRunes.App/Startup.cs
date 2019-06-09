@@ -1,12 +1,13 @@
 ﻿using IRunes.Data;
 using IRunes.Services;
+using Microsoft.Extensions.Logging;
 using SIS.MvcFramework;
-using SIS.MvcFramework.Routing;
 using SIS.MvcFramework.DependencyContainer;
+using SIS.MvcFramework.Routing;
 
 namespace IRunes.App
 {
-    public partial class Startup : IMvcApplication
+    public class Startup : IMvcApplication
     {
         public void Configure(IServerRoutingTable serverRoutingTable)
         {
@@ -19,10 +20,8 @@ namespace IRunes.App
         public void ConfigureServices(IServiceProvider serviceProvider)
         {
             serviceProvider.Add<IAlbumService, AlbumService>();
-            serviceProvider.Add<IUserService, UserService>();
             serviceProvider.Add<ITrackService, TrackService>();
-
-            //serviceProvider.Add
+            serviceProvider.Add<IUserService, UserService>();
         }
     }
 }

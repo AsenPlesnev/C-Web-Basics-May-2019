@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +8,8 @@ namespace SIS.MvcFramework.DependencyContainer
 {
     public class ServiceProvider : IServiceProvider
     {
-        private readonly IDictionary<Type, Type> dependencyContainer = new ConcurrentDictionary<Type, Type>();
+        private readonly IDictionary<Type, Type>
+            dependencyContainer = new ConcurrentDictionary<Type, Type>();
 
         public void Add<TSource, TDestination>()
             where TDestination : TSource
@@ -17,6 +17,8 @@ namespace SIS.MvcFramework.DependencyContainer
             this.dependencyContainer[typeof(TSource)] = typeof(TDestination);
         }
 
+        // CreateInstance(typeof(ILogger))
+        // CreateInstance(typeof(HomeController))
         public object CreateInstance(Type type)
         {
             if (dependencyContainer.ContainsKey(type))
@@ -34,7 +36,6 @@ namespace SIS.MvcFramework.DependencyContainer
 
             var parameters = constructor.GetParameters();
             var parameterInstances = new List<object>();
-
             foreach (var parameter in parameters)
             {
                 var parameterInstance = CreateInstance(parameter.ParameterType);
@@ -42,9 +43,7 @@ namespace SIS.MvcFramework.DependencyContainer
             }
 
             var obj = constructor.Invoke(parameterInstances.ToArray());
-
             return obj;
         }
-
     }
 }

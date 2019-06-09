@@ -7,8 +7,8 @@ namespace SIS.MvcFramework.DependencyContainer
         void Add<TSource, TDestination>()
             where TDestination : TSource;
 
-    object CreateInstance(Type type);
+        object CreateInstance(Type type);
 
-        //T CreateInstance<T>();
+        // T CreateInstance<T>();
     }
 }
