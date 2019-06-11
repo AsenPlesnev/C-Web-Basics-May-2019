@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\SIS.Common\\SIS.Common.csproj",
+      "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\SIS\\src\\SIS.Common\\SIS.Common.csproj",
       "projectName": "SIS.Common",
-      "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\SIS.Common\\SIS.Common.csproj",
+      "projectPath": "C:\\Users\\NyonBG\\Desktop\\SIS\\src\\SIS.Common\\SIS.Common.csproj",
       "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\SIS.Common\\obj\\",
+      "outputPath": "C:\\Users\\NyonBG\\Desktop\\SIS\\src\\SIS.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
