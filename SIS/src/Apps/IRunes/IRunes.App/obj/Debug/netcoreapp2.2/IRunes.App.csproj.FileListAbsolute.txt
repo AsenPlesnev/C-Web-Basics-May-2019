@@ -7,7 +7,6 @@ C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\I
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\Albums\Details.html
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\Home\Home.html
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\Home\Index.html
-C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\Info\About.html
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\Tracks\Create.html
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\Tracks\Details.html
 C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\Users\Login.html
@@ -74,3 +73,6 @@ C:\Users\NyonBG\Desktop\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\I
 C:\Users\NyonBG\Desktop\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\SIS.Common.pdb
 C:\Users\NyonBG\Desktop\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
 C:\Users\NyonBG\Desktop\SIS\src\Apps\IRunes\IRunes.App\obj\Debug\netcoreapp2.2\IRunes.App.csproj.CopyComplete
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\Views\Home\Test.html
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\SIS.Common.dll
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\Apps\IRunes\IRunes.App\bin\Debug\netcoreapp2.2\SIS.Common.pdb

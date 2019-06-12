@@ -3489,11 +3489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj",
+      "projectUniqueName": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj",
       "projectName": "IRunes.Data",
-      "projectPath": "C:\\Users\\NyonBG\\Desktop\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj",
+      "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj",
       "packagesPath": "C:\\Users\\NyonBG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NyonBG\\Desktop\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\obj\\",
+      "outputPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3518,8 +3518,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\NyonBG\\Desktop\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
-              "projectPath": "C:\\Users\\NyonBG\\Desktop\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
+            "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+              "projectPath": "C:\\Users\\NyonBG\\Desktop\\GitHub Repos\\C-Web-Basics-May-2019\\SIS\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
             }
           }
         }

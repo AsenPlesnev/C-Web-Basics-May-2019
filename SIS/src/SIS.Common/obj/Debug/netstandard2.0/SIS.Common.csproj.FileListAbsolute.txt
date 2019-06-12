@@ -7,3 +7,12 @@ C:\Users\NyonBG\Desktop\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.A
 C:\Users\NyonBG\Desktop\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.AssemblyInfo.cs
 C:\Users\NyonBG\Desktop\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.dll
 C:\Users\NyonBG\Desktop\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.pdb
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\bin\Debug\netstandard2.0\SIS.Common.deps.json
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\bin\Debug\netstandard2.0\SIS.Common.dll
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\bin\Debug\netstandard2.0\SIS.Common.pdb
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.csprojAssemblyReference.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.AssemblyInfoInputs.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.AssemblyInfo.cs
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.dll
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.Common\obj\Debug\netstandard2.0\SIS.Common.pdb

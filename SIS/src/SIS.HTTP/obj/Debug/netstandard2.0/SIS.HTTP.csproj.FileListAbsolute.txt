@@ -18,3 +18,7 @@ C:\Users\NyonBG\Desktop\SIS\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.Assem
 C:\Users\NyonBG\Desktop\SIS\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csproj.CopyComplete
 C:\Users\NyonBG\Desktop\SIS\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
 C:\Users\NyonBG\Desktop\SIS\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.HTTP\bin\Debug\netstandard2.0\SIS.Common.dll
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.HTTP\bin\Debug\netstandard2.0\SIS.Common.pdb
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\NyonBG\Desktop\GitHub Repos\C-Web-Basics-May-2019\SIS\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csproj.CopyComplete
